@@ -1,5 +1,5 @@
-# GD_Deps_Arch
-Script that automatically installs the dependencies needed to run Geometry Dash on Arch Linux using WINE.
+# Game_Deps_Arch
+Script that automatically installs the dependencies needed to run most games on Arch Linux using WINE.
 
 Be sure to have yay installed, and the multilib and extra repos enabled.
 
